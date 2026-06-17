@@ -1,0 +1,82 @@
+info 6/16/26, 11:25 PM - [Vendure Server] Bootstrapping Vendure Server (pid: 426020)... 
+info 6/16/26, 11:25 PM - [AdminUiPlugin] Creating admin ui middleware (prod mode) 
+info 6/16/26, 11:25 PM - [AssetServerPlugin] Creating asset server middleware 
+info 6/16/26, 11:25 PM - [EmailPlugin] Creating dev mailbox middleware 
+info 6/16/26, 11:25 PM - [RoutesResolver] HealthController {/health}: 
+info 6/16/26, 11:25 PM - [RouterExplorer] Mapped {/health, GET} route 
+info 6/16/26, 11:25 PM - [RoutesResolver] StripeController {/payments}: 
+info 6/16/26, 11:25 PM - [RouterExplorer] Mapped {/payments/stripe, POST} route 
+info 6/16/26, 11:25 PM - [GraphQLModule] Mapped {/shop-api, POST} route 
+info 6/16/26, 11:25 PM - [GraphQLModule] Mapped {/admin-api, POST} route 
+info 6/16/26, 11:25 PM - [NestApplication] Nest application successfully started 
+info 6/16/26, 11:25 PM - [Vendure Server] ================================================ 
+info 6/16/26, 11:25 PM - [Vendure Server] Vendure server (v3.5.0) now running on port 3000 
+info 6/16/26, 11:25 PM - [Vendure Server] ------------------------------------------------ 
+info 6/16/26, 11:25 PM - [Vendure Server] Shop API:     http://localhost:3000/shop-api 
+info 6/16/26, 11:25 PM - [Vendure Server] Admin API:    http://localhost:3000/admin-api 
+info 6/16/26, 11:25 PM - [Vendure Server] Asset server: http://localhost:3000/assets 
+info 6/16/26, 11:25 PM - [Vendure Server] Dev mailbox:  http://localhost:3000/mailbox 
+info 6/16/26, 11:25 PM - [Vendure Server] Admin UI:     http://localhost:3000/admin 
+info 6/16/26, 11:25 PM - [Vendure Server] ================================================ 
+info 6/17/26, 2:36 AM - [Vendure Server] Bootstrapping Vendure Server (pid: 3002982)... 
+info 6/17/26, 2:36 AM - [AdminUiPlugin] Creating admin ui middleware (prod mode) 
+info 6/17/26, 2:36 AM - [AssetServerPlugin] Creating asset server middleware 
+info 6/17/26, 2:36 AM - [EmailPlugin] Creating dev mailbox middleware 
+info 6/17/26, 2:36 AM - [RoutesResolver] HealthController {/health}: 
+info 6/17/26, 2:36 AM - [RouterExplorer] Mapped {/health, GET} route 
+info 6/17/26, 2:36 AM - [RoutesResolver] StripeController {/payments}: 
+info 6/17/26, 2:36 AM - [RouterExplorer] Mapped {/payments/stripe, POST} route 
+info 6/17/26, 2:36 AM - [GraphQLModule] Mapped {/shop-api, POST} route 
+info 6/17/26, 2:36 AM - [GraphQLModule] Mapped {/admin-api, POST} route 
+info 6/17/26, 2:36 AM - [NestApplication] Nest application successfully started 
+info 6/17/26, 2:36 AM - [Vendure Server] ================================================ 
+info 6/17/26, 2:36 AM - [Vendure Server] Vendure server (v3.5.0) now running on port 3000 
+info 6/17/26, 2:36 AM - [Vendure Server] ------------------------------------------------ 
+info 6/17/26, 2:36 AM - [Vendure Server] Shop API:     http://localhost:3000/shop-api 
+info 6/17/26, 2:36 AM - [Vendure Server] Admin API:    http://localhost:3000/admin-api 
+info 6/17/26, 2:36 AM - [Vendure Server] Asset server: http://localhost:3000/assets 
+info 6/17/26, 2:36 AM - [Vendure Server] Dev mailbox:  http://localhost:3000/mailbox 
+info 6/17/26, 2:36 AM - [Vendure Server] Admin UI:     http://localhost:3000/admin 
+info 6/17/26, 2:36 AM - [Vendure Server] ================================================ 
+info 6/17/26, 2:36 AM - [Vendure Server] Received shutdown signal:SIGTERM 
+info 6/17/26, 2:55 AM - [Vendure Server] Bootstrapping Vendure Server (pid: 330385)... 
+info 6/17/26, 2:55 AM - [AdminUiPlugin] Creating admin ui middleware (prod mode) 
+info 6/17/26, 2:55 AM - [AssetServerPlugin] Creating asset server middleware 
+info 6/17/26, 2:55 AM - [EmailPlugin] Creating dev mailbox middleware 
+info 6/17/26, 2:55 AM - [RoutesResolver] HealthController {/health}: 
+info 6/17/26, 2:55 AM - [RouterExplorer] Mapped {/health, GET} route 
+info 6/17/26, 2:55 AM - [RoutesResolver] StripeController {/payments}: 
+info 6/17/26, 2:55 AM - [RouterExplorer] Mapped {/payments/stripe, POST} route 
+info 6/17/26, 2:55 AM - [GraphQLModule] Mapped {/shop-api, POST} route 
+info 6/17/26, 2:55 AM - [GraphQLModule] Mapped {/admin-api, POST} route 
+info 6/17/26, 2:55 AM - [NestApplication] Nest application successfully started 
+info 6/17/26, 2:55 AM - [Vendure Server] ================================================ 
+info 6/17/26, 2:55 AM - [Vendure Server] Vendure server (v3.5.0) now running on port 3000 
+info 6/17/26, 2:55 AM - [Vendure Server] ------------------------------------------------ 
+info 6/17/26, 2:55 AM - [Vendure Server] Shop API:     http://localhost:3000/shop-api 
+info 6/17/26, 2:55 AM - [Vendure Server] Admin API:    http://localhost:3000/admin-api 
+info 6/17/26, 2:55 AM - [Vendure Server] Asset server: http://localhost:3000/assets 
+info 6/17/26, 2:55 AM - [Vendure Server] Dev mailbox:  http://localhost:3000/mailbox 
+info 6/17/26, 2:55 AM - [Vendure Server] Admin UI:     http://localhost:3000/admin 
+info 6/17/26, 2:55 AM - [Vendure Server] ================================================ 
+info 6/17/26, 7:07 AM - [Vendure Server] Bootstrapping Vendure Server (pid: 334362)... 
+info 6/17/26, 7:07 AM - [AdminUiPlugin] Creating admin ui middleware (prod mode) 
+info 6/17/26, 7:07 AM - [AssetServerPlugin] Creating asset server middleware 
+info 6/17/26, 7:07 AM - [EmailPlugin] Creating dev mailbox middleware 
+info 6/17/26, 7:07 AM - [RoutesResolver] HealthController {/health}: 
+info 6/17/26, 7:07 AM - [RouterExplorer] Mapped {/health, GET} route 
+info 6/17/26, 7:07 AM - [RoutesResolver] StripeController {/payments}: 
+info 6/17/26, 7:07 AM - [RouterExplorer] Mapped {/payments/stripe, POST} route 
+info 6/17/26, 7:07 AM - [GraphQLModule] Mapped {/shop-api, POST} route 
+info 6/17/26, 7:07 AM - [GraphQLModule] Mapped {/admin-api, POST} route 
+info 6/17/26, 7:07 AM - [NestApplication] Nest application successfully started 
+info 6/17/26, 7:07 AM - [Vendure Server] ================================================ 
+info 6/17/26, 7:07 AM - [Vendure Server] Vendure server (v3.5.0) now running on port 3000 
+info 6/17/26, 7:07 AM - [Vendure Server] ------------------------------------------------ 
+info 6/17/26, 7:07 AM - [Vendure Server] Shop API:     http://localhost:3000/shop-api 
+info 6/17/26, 7:07 AM - [Vendure Server] Admin API:    http://localhost:3000/admin-api 
+info 6/17/26, 7:07 AM - [Vendure Server] Asset server: http://localhost:3000/assets 
+info 6/17/26, 7:07 AM - [Vendure Server] Dev mailbox:  http://localhost:3000/mailbox 
+info 6/17/26, 7:07 AM - [Vendure Server] Admin UI:     http://localhost:3000/admin 
+info 6/17/26, 7:07 AM - [Vendure Server] ================================================ 
+{"timestamp":"2026-06-17T07:07:52.656Z","level":"ERROR","message":"ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.\n    at Object.xForwardedForHeader (/home/u677114710/domains/shop.smash-globalmarketing.com/nodejs/node_modules/express-rate-limit/dist/index.cjs:185:13)\n    at wrappedValidations.<computed> [as xForwardedForHeader] (/home/u677114710/domains/shop.smash-globalmarketing.com/nodejs/node_modules/express-rate-limit/dist/index.cjs:397:22)\n    at Object.keyGenerator (/home/u677114710/domains/shop.smash-globalmarketing.com/nodejs/node_modules/express-rate-limit/dist/index.cjs:658:20)\n    at /home/u677114710/domains/shop.smash-globalmarketing.com/nodejs/node_modules/express-rate-limit/dist/index.cjs:710:32\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async /home/u677114710/domains/shop.smash-globalmarketing.com/nodejs/node_modules/express-rate-limit/dist/index.cjs:691:5"}
